@@ -1,0 +1,19 @@
+{
+  "name": "Hazard 7007",
+  "short_name": "Hazard 7007",
+  "description": "Контроллер спецсигналов",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111214",
+  "theme_color": "#111214",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.hazard.sgu" version="1.0.0" xmlns="http://w3.org" xmlns:cdv="http://apache.org">
+    <name>Hazard 7007</name>
+    <description>Контроллер спецсигналов</description>
+    <author>BORZ</author>
+    <icon src="icon.png" />
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
